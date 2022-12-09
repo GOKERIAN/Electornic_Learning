@@ -1,0 +1,65 @@
+h1,
+h2 {
+   text-align: center;
+   background-color: #191919;
+   color: white;
+   padding: 10px;
+   border-radius: 10px;
+}
+
+.main-div {
+   display: flex;
+   gap: 1.25rem;
+   direction: rtl;
+   font-weight: bold;
+   font-size: 20px;
+}
+
+.image {
+   width: 40%;
+
+}
+
+.image img {
+   max-width: 100%;
+   border-radius: 10px;
+
+}
+
+p {
+   font-size: 20px;
+   max-width: 60%;
+   padding: 20px;
+}
+
+.point {
+   display: flex;
+   justify-content: right;
+}
+
+ol {
+   font-size: 30px;
+   font-weight: bold;
+   width: 50%;
+   direction: rtl;
+
+}
+
+.image-two {
+   max-width: 50%;
+}
+
+.image-two img {
+   max-width: 70%;
+}
+
+a {
+   display: block;
+   text-decoration: none;
+   color: white;
+   background-color: #1e1e1e;
+   padding: 10px 20px;
+   width: 200px;
+   border-radius: 10px;
+   margin: 10px auto;
+}
